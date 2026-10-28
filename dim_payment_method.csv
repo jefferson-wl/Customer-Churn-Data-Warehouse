@@ -1,0 +1,25 @@
+ContractID,PaymentMethod,PaperlessBilling
+1,Mailed check,Yes
+1,Electronic check,Yes
+1,Bank transfer (automatic),Yes
+1,Credit card (automatic),No
+1,Mailed check,No
+1,Electronic check,No
+1,Credit card (automatic),Yes
+24,Bank transfer (automatic),Yes
+12,Bank transfer (automatic),Yes
+1,Bank transfer (automatic),No
+24,Mailed check,No
+12,Credit card (automatic),No
+12,Bank transfer (automatic),No
+24,Electronic check,Yes
+12,Mailed check,No
+12,Electronic check,Yes
+24,Credit card (automatic),Yes
+12,Electronic check,No
+12,Credit card (automatic),Yes
+12,Mailed check,Yes
+24,Bank transfer (automatic),No
+24,Credit card (automatic),No
+24,Electronic check,No
+24,Mailed check,Yes

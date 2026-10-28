@@ -1,0 +1,83 @@
+ServiceID,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport
+10D1100,Yes,No,DSL,Yes,Yes,No,No
+10F0000,Yes,No,Fiber optic,No,No,No,No
+11F0010,Yes,Yes,Fiber optic,No,No,Yes,No
+11F0011,Yes,Yes,Fiber optic,No,No,Yes,Yes
+11F0110,Yes,Yes,Fiber optic,No,Yes,Yes,No
+10D0011,Yes,No,DSL,No,No,Yes,Yes
+02D0010,No,No phone service,DSL,No,No,Yes,No
+1002222,Yes,No,No,No internet service,No internet service,No internet service,No internet service
+11F0100,Yes,Yes,Fiber optic,No,Yes,No,No
+02D0100,No,No phone service,DSL,No,Yes,No,No
+10D0000,Yes,No,DSL,No,No,No,No
+10F1100,Yes,No,Fiber optic,Yes,Yes,No,No
+11F0000,Yes,Yes,Fiber optic,No,No,No,No
+10F0010,Yes,No,Fiber optic,No,No,Yes,No
+11F1000,Yes,Yes,Fiber optic,Yes,No,No,No
+10F0110,Yes,No,Fiber optic,No,Yes,Yes,No
+11F0111,Yes,Yes,Fiber optic,No,Yes,Yes,Yes
+11F1100,Yes,Yes,Fiber optic,Yes,Yes,No,No
+02D1110,No,No phone service,DSL,Yes,Yes,Yes,No
+02D0000,No,No phone service,DSL,No,No,No,No
+11D1001,Yes,Yes,DSL,Yes,No,No,Yes
+02D0110,No,No phone service,DSL,No,Yes,Yes,No
+10F1000,Yes,No,Fiber optic,Yes,No,No,No
+10F1011,Yes,No,Fiber optic,Yes,No,Yes,Yes
+10D0001,Yes,No,DSL,No,No,No,Yes
+11D0100,Yes,Yes,DSL,No,Yes,No,No
+10F0100,Yes,No,Fiber optic,No,Yes,No,No
+10D1000,Yes,No,DSL,Yes,No,No,No
+10F0001,Yes,No,Fiber optic,No,No,No,Yes
+11F0101,Yes,Yes,Fiber optic,No,Yes,No,Yes
+10D1101,Yes,No,DSL,Yes,Yes,No,Yes
+11D1101,Yes,Yes,DSL,Yes,Yes,No,Yes
+11D0111,Yes,Yes,DSL,No,Yes,Yes,Yes
+02D1000,No,No phone service,DSL,Yes,No,No,No
+10D0100,Yes,No,DSL,No,Yes,No,No
+02D1010,No,No phone service,DSL,Yes,No,Yes,No
+11F1110,Yes,Yes,Fiber optic,Yes,Yes,Yes,No
+11F0001,Yes,Yes,Fiber optic,No,No,No,Yes
+02D1001,No,No phone service,DSL,Yes,No,No,Yes
+11D1011,Yes,Yes,DSL,Yes,No,Yes,Yes
+11F1010,Yes,Yes,Fiber optic,Yes,No,Yes,No
+10D1111,Yes,No,DSL,Yes,Yes,Yes,Yes
+10D0010,Yes,No,DSL,No,No,Yes,No
+10F1010,Yes,No,Fiber optic,Yes,No,Yes,No
+11F1001,Yes,Yes,Fiber optic,Yes,No,No,Yes
+11F1101,Yes,Yes,Fiber optic,Yes,Yes,No,Yes
+10F0011,Yes,No,Fiber optic,No,No,Yes,Yes
+10F1111,Yes,No,Fiber optic,Yes,Yes,Yes,Yes
+10F1001,Yes,No,Fiber optic,Yes,No,No,Yes
+11F1011,Yes,Yes,Fiber optic,Yes,No,Yes,Yes
+02D0011,No,No phone service,DSL,No,No,Yes,Yes
+11F1111,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes
+10D0110,Yes,No,DSL,No,Yes,Yes,No
+11D1000,Yes,Yes,DSL,Yes,No,No,No
+11D0000,Yes,Yes,DSL,No,No,No,No
+11D0001,Yes,Yes,DSL,No,No,No,Yes
+02D0001,No,No phone service,DSL,No,No,No,Yes
+11D0010,Yes,Yes,DSL,No,No,Yes,No
+10D0101,Yes,No,DSL,No,Yes,No,Yes
+02D1100,No,No phone service,DSL,Yes,Yes,No,No
+10D1110,Yes,No,DSL,Yes,Yes,Yes,No
+10F1110,Yes,No,Fiber optic,Yes,Yes,Yes,No
+10F0101,Yes,No,Fiber optic,No,Yes,No,Yes
+11D0101,Yes,Yes,DSL,No,Yes,No,Yes
+10F0111,Yes,No,Fiber optic,No,Yes,Yes,Yes
+11D1111,Yes,Yes,DSL,Yes,Yes,Yes,Yes
+11D1100,Yes,Yes,DSL,Yes,Yes,No,No
+10F1101,Yes,No,Fiber optic,Yes,Yes,No,Yes
+02D0101,No,No phone service,DSL,No,Yes,No,Yes
+10D1010,Yes,No,DSL,Yes,No,Yes,No
+1102222,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service
+11D0011,Yes,Yes,DSL,No,No,Yes,Yes
+10D1011,Yes,No,DSL,Yes,No,Yes,Yes
+02D1111,No,No phone service,DSL,Yes,Yes,Yes,Yes
+10D1001,Yes,No,DSL,Yes,No,No,Yes
+10D0111,Yes,No,DSL,No,Yes,Yes,Yes
+02D1011,No,No phone service,DSL,Yes,No,Yes,Yes
+02D1101,No,No phone service,DSL,Yes,Yes,No,Yes
+11D1010,Yes,Yes,DSL,Yes,No,Yes,No
+11D0110,Yes,Yes,DSL,No,Yes,Yes,No
+02D0111,No,No phone service,DSL,No,Yes,Yes,Yes
+11D1110,Yes,Yes,DSL,Yes,Yes,Yes,No
